@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naman Sharma</h1>
 <h3 align="center">A passionate Automation Test Engineer with 3.5+ years in Selenium, API, CI/CD & DevOps</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namansharma2609" alt="namansharma2609" /></a> </p>
 
 - 🔭 I’m currently working on **REST Assured Project**
 
