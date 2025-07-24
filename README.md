@@ -15,10 +15,12 @@
 - 💬 Ask me about **Selenium, TestNg, Postman, Maven, Cucumber, Jenkins, GitLab, SQL, Docker, REST Assured, Git**
 
 - 📫 How to reach me **namansharmaofficial26@gmail.com**
+<br></br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/sharmanaman26099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sharmanaman26099" height="30" width="40" /></a>
 </p>
+<br></br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.selenium.dev" target="_blank">
@@ -62,8 +64,8 @@
        alt="Docker logo with text" width="80" height="40" />
 </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=namansharma2609&show_icons=true&locale=en&layout=compact" alt="namansharma2609" /></p>
+<br></br>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=namansharma2609&show_icons=true&locale=en&layout=compact" alt="namansharma2609" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namansharma2609&show_icons=true&locale=en" alt="namansharma2609" /></p>
 
