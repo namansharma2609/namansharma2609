@@ -4,6 +4,8 @@
 
 - 🔭 I’m currently working on **REST Assured Project**
 
+- 💬 Ask me about **Selenium, TestNg, Postman, Maven, Cucumber, Jenkins, GitLab, SQL, Docker, REST Assured, Git**
+
 - 🌱 I’m currently learning **Karate, Gatling**
 
 - 👯 I’m looking to collaborate on **API Testing, Selenium, Automation Frameworks**
@@ -11,8 +13,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/namansharma2609](https://github.com/namansharma2609)
 
 - 📝 I regularly write articles on [https://scrolltest.com/](https://scrolltest.com/)
-
-- 💬 Ask me about **Selenium, TestNg, Postman, Maven, Cucumber, Jenkins, GitLab, SQL, Docker, REST Assured, Git**
 
 - 📫 How to reach me **namansharmaofficial26@gmail.com**
 <br></br>
@@ -31,7 +31,7 @@
        alt="REST Assured logo" width="100" height="40" />
 </a>
  <a href="https://www.jenkins.io" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgr4GaQ79t_0EzVgnJA2BDkalwpHEoWW5LDQ&s"
        alt="Jenkins logo icon" width="80" height="40" />
 </a>
   <a href="https://git-scm.com" target="_blank">
