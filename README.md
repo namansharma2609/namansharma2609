@@ -23,36 +23,43 @@
 <p align="left"> 
 <a href="https://www.selenium.dev" target="_blank">
   <img src="https://svgrepo.com/download/473780/selenium.svg"
-       alt="Selenium" width="40" height="40" />
+       alt="Selenium" width="80" height="40" />
 </a>
   <a href="https://www.postman.com" target="_blank">
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg"
-       alt="Postman logo icon" width="40" height="40" />
+       alt="Postman logo icon" width="80" height="40" />
 </a>
- <a href="https://maven.apache.org" target="_blank">
-  <img src="https://maven.apache.org/images/maven-logo-black-on-white.svg"
-       alt="Apache Maven logo" width="120" height="40" />
+  <a href="https://rest-assured.io" target="_blank">
+  <img src="https://qaautomation.expert/wp-content/uploads/2021/05/image-103.png?w=615"
+       alt="REST Assured logo" width="100" height="40" />
 </a>
  <a href="https://www.jenkins.io" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"
-       alt="Jenkins logo icon" width="40" height="40" />
+       alt="Jenkins logo icon" width="80" height="40" />
 </a>
   <a href="https://git-scm.com" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"
-       alt="Git logo" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Git-logo-black.svg"
+       alt="Git logo" width="80" height="40" />
 </a>
   <a href="https://gitlab.com" target="_blank">
-  <img src="https://logo.svgcdn.com/l/gitlab.svg"
-       alt="GitLab logo icon" width="40" height="40" />
+  <img src="https://mepiks.com/files/preview/900x675/721753270699nyxc9l0szzdqkxi3g1er15bekqodkkkattdinpdnkotrqb5s1z8y0kgfugsasknwyatcl9yapia9ncto4gkotqzjmkxwhimomusg.jpg"
+       alt="GitLab logo icon" width="80" height="40" />
 </a>
-
   <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg"
-       alt="SQL icon" width="40" height="40" />
+       alt="SQL icon" width="80" height="40" />
 </a>
-<a href="https://rest-assured.io" target="_blank">
-  <img src="https://blog.nashtechglobal.com/wp-content/uploads/2021/03/rest-assured-logo-green.png"
-       alt="REST Assured logo" width="40" height="40" />
+  <a href="https://testng.org" target="_blank">
+  <img src="https://www.mailslurp.com/assets/brands/testng.png"
+       alt="TestNG logo" width="80" height="40" />
+</a>
+<a href="https://maven.apache.org" target="_blank">
+  <img src="https://maven.apache.org/images/maven-logo-black-on-white.svg"
+       alt="Apache Maven logo" width="120" height="40" />
+</a>
+  <a href="https://www.docker.com" target="_blank">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwNLcCUBaC99r3nN10jX1asJQgcmxVzbtkgg&s"
+       alt="Docker logo with text" width="80" height="40" />
 </a>
 </p>
 
